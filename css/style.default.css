@@ -13,6 +13,10 @@ Bootstrapious Boilerplate Template
 * =====================
 *
 */
+
+.dot {
+	margin: 0px 3px;
+}
 .text-bold {
   font-weight: 700;
 }
@@ -1073,12 +1077,12 @@ body {
 }
 
 a {
-  color: #333;
+  color: #007bff;
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color: #0d0d0d;
+  color: #007bff;
   text-decoration: underline;
 }
 
