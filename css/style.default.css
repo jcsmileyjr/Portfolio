@@ -88,6 +88,11 @@ section {
   margin-bottom: 30px;
 }
 
+img {
+	min-height: 200px;
+}
+
+
 /*
 *
 =====================
