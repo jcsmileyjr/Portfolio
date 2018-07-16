@@ -60,15 +60,17 @@ section {
 
 .heading {
   margin-bottom: 40px;
+	text-align: center;
 }
 
 .heading:after {
   content: " ";
   display: block;
-  width: 100px;
+  width: 250px;
   height: 1px;
-  margin: 20px 0 20px;
+  margin: auto;
   background: #555;
+  	
 }
 
 .section-inverse {
